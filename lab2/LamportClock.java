@@ -1,3 +1,4 @@
+package SD_LabD_G2.lab2;
 import java.util.ArrayList;
 import java.util.List;
 
