@@ -1,0 +1,84 @@
+{"ed:children": [
+	{"TITULO": {"ed:text": "BOLETIN OFICIAL DEL ESTADO"}},
+	{"FECHA": {"ed:children": [
+		{"AAAA": {"ed:text": "2001"}},
+		{"MM": {"ed:text": "03"}},
+		{"DD": {"ed:text": "27"}}
+	]}},
+	{"SUMARIO": {"ed:children": [
+		{"SECCION": {"ed:children": [
+			{"TIT-SECCION": {"ed:text": "I. Disposiciones Generales"}},
+			{"APARTADO": {"ed:children": [
+				{"ORGANISMO": {"ed:text": "MINISTERIO DE ASUNTOS EXTERIORES"}},
+				{"PARRAFO": {"ed:children": [
+					{"TEXTO": {
+						"ed:children": [
+							{"LEY": {"ed:text": "Ley 1/2001 de 5 de marzo"}},
+							{"RD": {"ed:text": "REAL DECRETO 13/1991"}}
+						],
+						"ed:text": ", de la cesión gratuita a las Comunidades Autónomas el Impuesto sobre Animales y Cosas establecido por el . "
+					}},
+					{"PAGINA": {"ed:text": "11290"}}
+				]}},
+				{"PARRAFO": {"ed:children": [
+					{"TEXTO": {
+						"ed:children": [{"ORDEN": {"ed:text": "ORDEN de 28 de febrero de 2001"}}],
+						"ed:text": " por la ... "
+					}},
+					{"PAGINA": {"ed:text": "11290"}},
+					{"PAGINA": {"ed:text": "11291"}}
+				]}}
+			]}},
+			{"APARTADO": {"ed:children": [
+				{"ORGANISMO": {"ed:text": "MINISTERIO DE HACIENDA"}},
+				{"PARRAFO": {"ed:children": [
+					{"TEXTO": {
+						"ed:children": [{"RD": {"ed:text": "REAL DECRETO 285/2001"}}],
+						"ed:text": ", de 19 de marzo, sobre ... "
+					}},
+					{"PAGINA": {"ed:text": "11291"}},
+					{"PAGINA": {"ed:text": "11292"}},
+					{"PAGINA": {"ed:text": "11293"}},
+					{"PAGINA": {"ed:text": "11294"}}
+				]}}
+			]}},
+			{"APARTADO": {"ed:children": [
+				{"ORGANISMO": {"ed:text": "MINISTERIO DE FOMENTO"}},
+				{"PARRAFO": {"ed:children": [
+					{"TEXTO": {"ed:text": " CORRECCIÓN de erratas de la Orden ... "}},
+					{"PAGINA": {"ed:text": "11291"}},
+					{"PAGINA": {"ed:text": "11292"}},
+					{"PAGINA": {"ed:text": "11293"}},
+					{"PAGINA": {"ed:text": "11294"}}
+				]}}
+			]}}
+		]}},
+		{"SECCION": {"ed:children": [
+			{"TIT-SECCION": {"ed:text": "II. Autoridades y Personal"}},
+			{"APARTADO": {"ed:children": [
+				{"ORGANISMO": {"ed:text": "CORTES GENERALES"}},
+				{"PARRAFO": {"ed:children": [
+					{"TEXTO": {
+						"ed:children": [{"RES": {"ed:text": "RESOLUCIÓN de 19 de marzo de 2001"}}],
+						"ed:text": ", de la ... "
+					}},
+					{"PAGINA": {"ed:text": "11294"}},
+					{"PAGINA": {"ed:text": "11295"}}
+				]}}
+			]}},
+			{"APARTADO": {"ed:children": [
+				{"ORGANISMO": {"ed:text": "MINISTERIO DE ASUNTOS EXTERIORES"}},
+				{"PARRAFO": {"ed:children": [
+					{"TEXTO": {
+						"ed:children": [{"RD": {"ed:text": "REAL DECRETO 314/2001"}}],
+						"ed:text": ", de 24 de marzo, por el ... "
+					}},
+					{"PAGINA": {"ed:text": "11291"}},
+					{"PAGINA": {"ed:text": "11292"}},
+					{"PAGINA": {"ed:text": "11293"}},
+					{"PAGINA": {"ed:text": "11294"}}
+				]}}
+			]}}
+		]}}
+	]}}
+]}
